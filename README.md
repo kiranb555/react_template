@@ -1,4 +1,4 @@
-Clone the React template which has basic setup of react, redux, saga, styled components, react routes, icons, react-strap etc
+Clone the React template which has basic setup of react, redux, saga, styled components, react routes, icons, react-strap, eslint etc
 
 To remove linked origin : 
 > git remote rm origin  
